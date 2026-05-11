@@ -16,7 +16,7 @@
 2. **Extract** to any folder of your choice
 3. **Run** the executable file
 
-## 🎮 Features
+## 🎮 Features:
 
 - Latest 2026 version
 - Optimized performance
